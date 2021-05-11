@@ -31,5 +31,5 @@
 </details>
 
 
-[instagram]: https://www.instagram.com/13harman_/
+[instagram]: https://www.instagram.com/gitesh.gupta.982/
 [linkedin]: https://www.linkedin.com/mwlite/in/gitesh-gupta-47b9a6184
