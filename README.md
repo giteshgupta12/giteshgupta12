@@ -32,4 +32,4 @@
 
 
 [instagram]: https://www.instagram.com/13harman_/
-[linkedin]: https://www.linkedin.com/in/harmanpreetsingh123/
+[linkedin]: https://www.linkedin.com/mwlite/in/gitesh-gupta-47b9a6184
