@@ -1,8 +1,6 @@
-### Hi there, I'm Harmanpreet Singh - aka [Softgilehri][website] 👋
+### Hi there, I'm Gitesh Kumar Mittal
 
-[![Website](https://img.shields.io/website?label=Harmanpreet_Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1)](https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1)
-
-## I'm a Student, Coder, Designer, and Freelancer!!
+## I'm a Student, Coder and Web Designer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other designers and developers
@@ -11,8 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" background-color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -34,7 +30,6 @@
 
 </details>
 
-[website]: https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1
-[behance]: https://www.behance.net/harmanpsingh12
+
 [instagram]: https://www.instagram.com/13harman_/
 [linkedin]: https://www.linkedin.com/in/harmanpreetsingh123/
